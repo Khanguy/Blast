@@ -10,11 +10,11 @@ import java.util.ArrayList;
  */
 public class Debug {
 
-    public static final String alexTwitter= "brockuniera";
-    public static final String alexEmail= "brockuniera@gmail.com";
+    public static final String alexTwitter= "";
+    public static final String alexEmail= "";
     public static final String alexPhone= "";
-    public static final String aliTwitter = "khanguy101";
-    public static final String aliEmail = "Khanguy101@gmail.com";
+    public static final String aliTwitter = "";
+    public static final String aliEmail = "";
     public static final String aliPhone = "";
 
 
